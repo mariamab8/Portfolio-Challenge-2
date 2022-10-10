@@ -1,0 +1,25 @@
+
+#none{
+    background-image: url(
+        https://i.natgeofe.com/n/57f411cd-dfe6-41a6-8d40-21ba583eccfb/lake-elsinore-california.jpg
+    );
+    color: black;
+
+    background-position-x: center;
+background-position-y: center;
+
+}
+
+.parent {
+    display: flex;
+    flex-direction:row;
+  }
+  
+  .column {
+    flex: 1 1 0px;
+    border: 1px solid black;
+  }
+
+  #section{
+    text-align: center;
+  }
